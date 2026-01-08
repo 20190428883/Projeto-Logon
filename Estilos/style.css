@@ -8,7 +8,8 @@
 }
 
 body, html{
-    background-image: url(../Imagens/Pássaros\ irritados\ prontos\ para\ a\ ação.png);
+    background-image: url(../Imagens/Angry_Plano2.png);
+    transform: translateY(20px);
     height: 100vh;
     width: 100vw;
 }
